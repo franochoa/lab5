@@ -44,3 +44,4 @@ function anagrammedName(name) {
 		return name;
 	}
 }
+
